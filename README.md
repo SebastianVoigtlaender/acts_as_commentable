@@ -49,3 +49,5 @@ Join thousands of developers building full-stack apps with Pulse:
 
 - Join the [Pulse Discord community](https://pulse.dev/community) to get help in real-time.
 - Follow [Pulse on GitHub](https://github.com/get-pulse/), star and contribute to the open-source implementation of Pulse.
+
+# PR Merge: 2025-10-21 - feature/merge-9092
