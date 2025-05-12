@@ -1,0 +1,1 @@
+class ClinicalAnnotator:\n    def extract_entities(self, text):\n        return ['carcinoma', 'benign']

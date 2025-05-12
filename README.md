@@ -1,0 +1,1 @@
+# Clinical NLP Annotator\nMedical report analysis plugin.
