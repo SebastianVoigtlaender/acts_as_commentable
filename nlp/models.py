@@ -1,0 +1,1 @@
+import torch\nclass BioBERTLoader:\n    def load(self):\n        print('Loading BioBERT model...')
