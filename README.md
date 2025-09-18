@@ -1,1 +1,1 @@
-# Clinical NLP Annotator\nMedical report analysis plugin.
+# AI Clinical Annotator (acts_as_commentable)\n\nNLP plugin for extracting and commenting on clinical entities in radiology reports using Transformer models.

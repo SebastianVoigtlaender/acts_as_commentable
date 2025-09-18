@@ -1,0 +1,1 @@
+from nlp.annotator import ClinicalAnnotator\nprint(ClinicalAnnotator().extract_entities('Patient shows no signs of carcinoma.'))
